@@ -1,0 +1,119 @@
+{
+  "albums": {
+    "1": {
+      "id": 1,
+      "title": "you seem pretty sad for a girl so in love",
+      "release_year": 2026,
+      "spotify_url": "https://open.spotify.com/intl-id/album/3WZZF72ihlKPZBS4zSsNHl",
+      "cover_url": "https://store.oliviarodrigo.com/cdn/shop/files/girlsoinlove-cd_d9e4124b-e71a-4bb2-bcbc-582ea7b4e6e3.png?v=1775142377&width=1400",
+      "description": "A dreamy album-era fan page exploring love, vulnerability, and complicated feelings."
+    }
+  },
+  "songs": {
+    "1": {
+      "album_id": 1,
+      "track_number": 1,
+      "title": "drop dead",
+      "album_label": "ALBUM",
+      "mood": "for the dizzy, head-over-heels feeling",
+      "year": 2026
+    },
+    "2": {
+      "album_id": 1,
+      "track_number": 2,
+      "title": "stupid song",
+      "album_label": "ALBUM",
+      "mood": "for when love makes you act a little silly",
+      "year": 2026
+    },
+    "3": {
+      "album_id": 1,
+      "track_number": 3,
+      "title": "honeybee",
+      "album_label": "ALBUM",
+      "mood": "for soft, sweet daydreams",
+      "year": 2026
+    },
+    "4": {
+      "album_id": 1,
+      "track_number": 4,
+      "title": "maggots for brains",
+      "album_label": "ALBUM",
+      "mood": "for the messy thoughts you cannot shake",
+      "year": 2026
+    },
+    "5": {
+      "album_id": 1,
+      "track_number": 5,
+      "title": "u + me = <3",
+      "album_label": "ALBUM",
+      "mood": "for the butterflies and inside jokes",
+      "year": 2026
+    },
+    "6": {
+      "album_id": 1,
+      "track_number": 6,
+      "title": "my way",
+      "album_label": "ALBUM",
+      "mood": "for choosing your own path in love",
+      "year": 2026
+    },
+    "7": {
+      "album_id": 1,
+      "track_number": 7,
+      "title": "purple",
+      "album_label": "ALBUM",
+      "mood": "for the dreamy, in-between moments",
+      "year": 2026
+    },
+    "8": {
+      "album_id": 1,
+      "track_number": 8,
+      "title": "the cure",
+      "album_label": "ALBUM",
+      "mood": "for the person who feels like comfort",
+      "year": 2026
+    },
+    "9": {
+      "album_id": 1,
+      "track_number": 9,
+      "title": "begged",
+      "album_label": "ALBUM",
+      "mood": "for the vulnerable side of wanting someone",
+      "year": 2026
+    },
+    "10": {
+      "album_id": 1,
+      "track_number": 10,
+      "title": "what’s wrong with me",
+      "album_label": "ALBUM",
+      "mood": "for overthinking every little thing",
+      "year": 2026
+    },
+    "11": {
+      "album_id": 1,
+      "track_number": 11,
+      "title": "less",
+      "album_label": "ALBUM",
+      "mood": "for needing a little breathing room",
+      "year": 2026
+    },
+    "12": {
+      "album_id": 1,
+      "track_number": 12,
+      "title": "expectations",
+      "album_label": "ALBUM",
+      "mood": "for the gap between dreams and reality",
+      "year": 2026
+    },
+    "13": {
+      "album_id": 1,
+      "track_number": 13,
+      "title": "cigarette smoke",
+      "album_label": "ALBUM",
+      "mood": "for a cinematic, late-night mood",
+      "year": 2026
+    }
+  },
+  "testimonials": {}
+}
